@@ -1,0 +1,14 @@
+.active{
+    width: 300px;
+    margin-bottom: auto;
+}
+
+.img {
+    width: 55%;
+}
+
+.active:hover{
+    background-color: rgb(236, 233, 233);
+    box-shadow: 0 0 3px rgba(136, 136, 136, 0.3); 
+    transition: 0.1s ease-in-out;
+}

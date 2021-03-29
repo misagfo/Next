@@ -1,0 +1,15 @@
+.item {
+    width: 500px;
+}
+
+.image {
+    width: 60%;
+    border-radius: 30px;
+}
+
+
+.home {
+  cursor: pointer;
+  color: rgb(47, 0, 255);
+  font-size: 25px
+}
